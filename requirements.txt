@@ -1,2 +1,2 @@
-numpy==1.23.1
+numpy==2.0.0
 jupyter==1.0.0
